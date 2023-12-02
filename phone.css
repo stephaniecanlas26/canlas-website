@@ -1,0 +1,41 @@
+/* Home */
+#home{
+    height: 820px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+
+/* About */
+#pic img{
+    width: 230px;
+    height: 140px;
+}
+#intro h2{
+    font-size: 1rem;
+}
+
+/* Favorites */
+.gallery img{
+    width: 210px;
+    height: 210px;
+    margin: 10px;
+}
+
+/* Hobbies */
+.gallery img{
+    width: 210px;
+    height: 210px;
+    margin: 10px;
+}
+
+/* Contact */
+.input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+#send{
+    width: 30%;
+}
